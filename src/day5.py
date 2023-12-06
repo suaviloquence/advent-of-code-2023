@@ -121,5 +121,5 @@ def p2():
     print(min([n[0] for n in now if n[1] > n[0]]))
     
 
-p1()
+# p1()
 p2()
